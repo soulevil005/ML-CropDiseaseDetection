@@ -1,0 +1,51 @@
+Apple___Apple_scab: Apply fungicides like mancozeb or captan every 10–14 days during wet weather. Prune overcrowded branches to improve air flow. Remove fallen leaves to reduce infection sources.
+Apple___Black_rot: Prune infected twigs and remove mummified fruit. Spray with copper-based or thiophanate-methyl fungicides. Avoid overhead irrigation and ensure good sanitation.
+Apple___Cedar_apple_rust: Remove nearby junipers which host the fungus. Use protective fungicides like myclobutanil or mancozeb at bud break. Promote tree airflow to reduce humidity.
+Apple___healthy: Your apple tree is healthy! Continue pruning regularly, watering evenly, and using balanced fertilizer during the growing season.
+
+Blueberry___healthy: Blueberry plant looks healthy! Maintain soil pH between 4.5–5.5, mulch to retain moisture, and prune old canes annually.
+
+Cherry_(including_sour)___Powdery_mildew: Remove affected leaves. Use sulfur-based fungicides or neem oil weekly until control is achieved. Avoid excessive nitrogen fertilization.
+Cherry_(including_sour)___healthy: Cherry tree healthy! Maintain balanced nutrients and prune branches in late winter for better airflow.
+
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot: Rotate crops with non-host plants (soybean, alfalfa). Use resistant hybrids and apply fungicides like strobilurins at tasseling. Avoid dense planting.
+Corn_(maize)___Common_rust_: Use resistant hybrids. Apply azoxystrobin or propiconazole-based fungicides if rust spreads rapidly. Avoid overhead irrigation.
+Corn_(maize)___Northern_Leaf_Blight: Rotate crops and use resistant varieties. Apply fungicides (e.g., pyraclostrobin) early in disease development. Remove debris after harvest.
+Corn_(maize)___healthy: Corn plant healthy! Apply nitrogen fertilizers appropriately and maintain pest control with neem or pyrethrin sprays.
+
+Grape___Black_rot: Prune infected vines and remove mummified berries. Spray mancozeb or myclobutanil fungicides during early growth. Avoid overhead watering.
+Grape___Esca_(Black_Measles): Remove infected wood and dead spurs. Improve soil drainage and avoid drought stress. Apply systemic fungicides like benomyl or carbendazim if permitted.
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot): Remove infected leaves. Apply copper oxychloride or zineb fungicides. Maintain proper canopy ventilation.
+Grape___healthy: Grape plant healthy! Use drip irrigation, prune regularly, and avoid dense plantings to improve airflow.
+
+Orange___Haunglongbing_(Citrus_greening): Remove and destroy infected trees immediately. Control psyllid insects using imidacloprid or horticultural oils. Plant disease-free certified seedlings.
+
+Peach___Bacterial_spot: Apply copper fungicides during dormancy and spring. Avoid working with wet plants. Ensure good air movement and avoid overhead watering.
+Peach___healthy: Peach tree healthy! Continue pruning and monitor for aphids or leaf curl early in the season.
+
+Pepper,_bell___Bacterial_spot: Remove infected leaves and debris. Use copper or streptomycin sprays weekly. Avoid overhead irrigation and ensure seed disinfection before planting.
+Pepper,_bell___healthy: Bell pepper plant healthy! Keep soil moist, avoid overcrowding, and use mulch to retain humidity.
+
+Potato___Early_blight: Rotate crops for at least 2 years. Apply mancozeb or chlorothalonil fungicides every 7–10 days. Remove infected leaves and maintain balanced nitrogen.
+Potato___Late_blight: Remove infected foliage immediately. Apply copper oxychloride or cymoxanil-based fungicides preventively. Avoid watering in the evening.
+Potato___healthy: Potato plant healthy! Keep soil loose and dry between waterings, and hill soil around stems to prevent greening.
+
+Raspberry___healthy: Raspberry plant healthy! Prune canes annually, ensure good spacing, and avoid wet foliage to prevent fungal infections.
+
+Soybean___healthy: Soybean plant healthy! Rotate with non-legume crops, and monitor for aphids and rust during warm humid conditions.
+
+Squash___Powdery_mildew: Apply sulfur-based fungicides weekly. Use resistant cultivars and ensure 3 feet spacing between plants. Water at soil level, not on leaves.
+
+Strawberry___Leaf_scorch: Remove diseased leaves and old mulch. Apply fungicides like captan or thiophanate-methyl. Avoid overhead watering and ensure morning irrigation.
+Strawberry___healthy: Strawberry plant healthy! Mulch soil, water at base, and apply balanced fertilizer every 3–4 weeks.
+
+Tomato___Bacterial_spot: Remove infected leaves and fruits. Apply copper-based bactericides. Avoid working in fields when leaves are wet.
+Tomato___Early_blight: Rotate crops yearly. Apply chlorothalonil or mancozeb fungicides every 7 days. Mulch to reduce soil splash.
+Tomato___Late_blight: Destroy infected plants immediately. Spray with copper hydroxide or mancozeb-based fungicides. Avoid overhead watering.
+Tomato___Leaf_Mold: Increase air circulation, reduce humidity, and apply chlorothalonil fungicides. Disinfect greenhouse surfaces.
+Tomato___Septoria_leaf_spot: Remove lower leaves and apply fungicides containing mancozeb or copper. Avoid dense planting.
+Tomato___Spider_mites Two-spotted_spider_mite: Spray with neem oil or miticide. Keep humidity above 60% to slow mite reproduction.
+Tomato___Target_Spot: Apply azoxystrobin or difenoconazole fungicides. Remove lower infected leaves and maintain spacing.
+Tomato___Tomato_Yellow_Leaf_Curl_Virus: Remove infected plants. Control whiteflies using insect nets, sticky traps, or neem oil sprays.
+Tomato___Tomato_mosaic_virus: Destroy infected plants. Sterilize tools with 10% bleach. Avoid handling tobacco near plants.
+Tomato___healthy: Tomato plant healthy! Maintain consistent watering, fertilize every 2–3 weeks, and use mulch to prevent soil splash.
