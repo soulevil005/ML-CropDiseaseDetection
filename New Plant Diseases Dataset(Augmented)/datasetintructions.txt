@@ -1,0 +1,128 @@
+=========================================
+DATASET DOWNLOAD & SETUP INSTRUCTIONS
+=========================================
+
+Dataset used:
+New Plant Diseases Dataset (Image-based)
+Kaggle Link:
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+-----------------------------------------
+1. REQUIREMENTS
+-----------------------------------------
+To download the dataset directly as a ZIP file, you need:
+Contains the Kaggle dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+Download the ZIP file and manually extract it inside this folder.
+
+OR
+
+To download the dataset via script or terminal, you need:
+
+1. Kaggle account  
+2. Kaggle API token (kaggle.json)
+
+Generate token from:
+Profile → Account → Create New API Token
+
+This downloads a file named:
+kaggle.json
+
+-----------------------------------------
+2. SAVE KAGGLE API TOKEN
+-----------------------------------------
+Place kaggle.json into:
+
+Windows:
+C:\Users\<your-username>\.kaggle\kaggle.json
+
+macOS / Linux / WSL:
+~/.kaggle/kaggle.json
+
+Set permissions (macOS/Linux):
+chmod 600 ~/.kaggle/kaggle.json
+
+-----------------------------------------
+3. DOWNLOAD THE DATASET
+-----------------------------------------
+Run the following command from the project root folder:
+
+kaggle datasets download -d vipoooool/new-plant-diseases-dataset -p data/raw --unzip
+
+After unzipping, you will typically get:
+
+data/raw/train/
+data/raw/valid/
+
+If the ZIP extracts into a single folder (e.g., “New Plant Diseases Dataset”),  
+then move the folders manually into:
+
+data/raw/train  
+data/raw/valid  
+
+-----------------------------------------
+4. DATASET FORMAT
+-----------------------------------------
+The dataset is image-based and organized in the following structure:
+
+train/
+   ├── Apple___Apple_scab/
+   ├── Apple___Black_rot/
+   ├── Cherry___Powdery_mildew/
+   ├── ... (multiple classes)
+
+valid/
+   ├── Apple___Apple_scab/
+   ├── Apple___Black_rot/
+   ├── Cherry___Powdery_mildew/
+   ├── ... (matching class names)
+
+Each subfolder contains multiple RGB leaf images belonging to that disease class.
+
+Number of classes: ~38  
+Image types: JPG, JPEG, PNG
+
+-----------------------------------------
+5. STORAGE WARNING
+-----------------------------------------
+DO NOT upload the dataset to GitHub.  
+The complete dataset is extremely large (several GB) and will exceed GitHub file limits.
+
+Keep dataset only in:
+data/raw/
+
+-----------------------------------------
+6. OPTIONAL: SMALL SAMPLE
+-----------------------------------------
+You may create:
+
+data/sample/train/
+data/sample/valid/
+
+with 10–50 images per class for fast testing or debugging.
+
+Example:
+Apple___Black_rot/
+Cherry___Powdery_mildew/
+Tomato___Late_blight/
+... etc.
+
+-----------------------------------------
+7. VERIFY THE DOWNLOAD
+-----------------------------------------
+After download and extraction, ensure these directories exist:
+
+data/raw/train/
+data/raw/valid/
+
+Each of these must contain the SAME set of class folders.
+
+If the files or folders are missing, check:
+- ZIP extraction completed correctly  
+- Kaggle API token placement  
+- Kaggle account permissions  
+- Internet connection  
+
+-----------------------------------------
+
+END OF FILE
